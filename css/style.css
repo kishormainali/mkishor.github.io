@@ -379,6 +379,7 @@ select {
   border-radius: 50%;
   display: inline-block;
   border: 8px solid white;
+  object-fit: cover;
 }
 .home .intro h1 {
   font-size: 30px;
